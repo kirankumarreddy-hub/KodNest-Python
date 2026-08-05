@@ -19,3 +19,5 @@ for ch in word:
 
 for i in range(10,0,-1):
     print(i)
+
+    print("True"or False)
