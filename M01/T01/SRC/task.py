@@ -15,4 +15,7 @@ word = input("Enter a word")
 for i in range(1,n+1):
     print(i)
 for ch in word:
-    print(ch)   
+    print(ch) 
+
+for i in range(10,0,-1):
+    print(i)
