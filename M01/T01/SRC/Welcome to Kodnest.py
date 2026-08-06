@@ -29,5 +29,17 @@ print(isinstance(score, float))
 print(score,type(score))
 '''
 
-for i in range(10,1,-5):
+'''for i in range(10,1,-3):
+    print(i)'''
+
+
+for i in range(1,6):
+    if i == 4:
+        break
+    print(i)
+
+word = "Kiran"
+for i in word:
+    if i == "r":
+        continue
     print(i)
