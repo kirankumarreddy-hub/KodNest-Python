@@ -15,7 +15,7 @@ marks = 35
 result = marks >= 40
 print(result)'''
 
-name = 'Kiran'
+'''name = 'Kiran'
 print(name, type(name))
 
 is_student = True
@@ -27,3 +27,7 @@ print(age, type(age))
 score = 80.5
 print(isinstance(score, float))
 print(score,type(score))
+'''
+
+for i in range(10,1,-5):
+    print(i)
