@@ -1,4 +1,4 @@
-marks = int(input("enter your marks"))
+'''marks = int(input("enter your marks"))
 
 if marks>=90 and marks <= 100:
     print("your grade is A")
@@ -9,4 +9,5 @@ elif marks>=70 and marks <=80:
 elif marks>=60 and marks <=70:
     print("your grade is D")
 else:
-    print("your grade is F")
+    print("your grade is F")'''
+

@@ -9,7 +9,7 @@ while counter <= n:
 
 print("total:", total)'''
 
-n = int(input("Enter a number"))
+'''n = int(input("Enter a number"))
 word = input("Enter a word")
 
 for i in range(1,n+1):
@@ -19,5 +19,9 @@ for ch in word:
 
 for i in range(10,0,-1):
     print(i)
+print("True"or False)'''
 
-    print("True"or False)
+def demo():
+    print(10)
+x = demo()
+print(x)
