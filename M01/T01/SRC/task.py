@@ -21,7 +21,18 @@ for i in range(10,0,-1):
     print(i)
 print("True"or False)'''
 
-def demo():
+'''def demo():
     print(10)
 x = demo()
-print(x)
+print(x)''' 
+
+def display_study_hours():
+    # Constraints: 1 ≤ study hours per day ≤ 12, 1 ≤ number of study days ≤ 7
+    study_hours_per_day = 5   # Example value within range
+    number_of_study_days = 6  # Example value within range
+
+    total_hours = study_hours_per_day * number_of_study_days
+    print("Total study hours:", total_hours)
+
+# Function must be called exactly once
+display_study_hours()
